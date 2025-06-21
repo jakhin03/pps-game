@@ -1,0 +1,3 @@
+[submodule "server/core"]
+	path = server/core
+	url = https://github.com/jakhin03/Final_Project/
