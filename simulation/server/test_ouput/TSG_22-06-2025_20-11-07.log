@@ -1,0 +1,11 @@
+Run time: 0.845522403717041 SEC
+Solver time: 0.001536
+Total time: 0.007077
+Reading time: 0.0
+Presolving time: 0.001001
+Optimal value: 414.0
+Solution:
+x54_54_80 = 1.0
+x55_55_58 = 1.0
+x55_58_61 = 1.0
+x55_61_79 = 1.0

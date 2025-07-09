@@ -1,0 +1,11 @@
+Run time: 0.4725801944732666 SEC
+Solver time: 0.000946
+Total time: 0.005118999999999999
+Reading time: 0.0
+Presolving time: 0.0006169999999999999
+Optimal value: 17.0
+Solution:
+x1_1_18 = 1.0
+x1_18_50 = 1.0
+x4_4_21 = 1.0
+x4_21_49 = 1.0

@@ -1,0 +1,11 @@
+Run time: 9.713876247406006 SEC
+Solver time: 0.000937
+Total time: 0.006006
+Reading time: 0.0
+Presolving time: 0.000504
+Optimal value: 403.0
+Solution:
+x53_53_56 = 1.0
+x53_56_59 = 1.0
+x53_59_62 = 1.0
+x53_62_79 = 1.0

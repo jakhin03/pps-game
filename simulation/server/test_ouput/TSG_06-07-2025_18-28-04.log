@@ -1,0 +1,12 @@
+Run time: 47.991278886795044 SEC
+Solver time: 0.000694
+Total time: 0.004103
+Reading time: 0.0
+Presolving time: 0.000403
+Optimal value: 16.0
+Solution:
+x42_42_45 = 1.0
+x42_45_48 = 1.0
+x42_48_51 = 1.0
+x42_51_54 = 1.0
+x42_54_79 = 1.0

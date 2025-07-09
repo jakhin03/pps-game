@@ -1,0 +1,8 @@
+gamma,violations_count,total_violation_flow,total_penalty_cost,simulation_time,escape_edges_count,status
+1.0,8,15,15.0,2.373411303787223,10,success
+10.0,7,9,90.0,2.580378619975062,9,success
+50.0,3,3,150.0,1.8529011676080027,5,success
+100.0,3,4,400.0,1.9105073343698145,5,success
+200.0,0,0,0.0,2.9752674146797293,2,success
+400.0,1,0,0.0,2.339809198624467,3,success
+800.0,1,1,800.0,2.781690910195378,3,success

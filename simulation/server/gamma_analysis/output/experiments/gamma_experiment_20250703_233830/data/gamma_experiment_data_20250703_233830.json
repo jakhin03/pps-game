@@ -1,0 +1,88 @@
+{
+  "experiment_name": "gamma_experiment_20250703_233830",
+  "timestamp": "20250703_233830",
+  "config": {
+    "gamma_values": [
+      1.0,
+      10.0,
+      50.0,
+      100.0,
+      200.0,
+      400.0,
+      800.0
+    ],
+    "output_formats": [
+      "png",
+      "pdf"
+    ],
+    "chart_style": "professional",
+    "detailed_analysis": true,
+    "violation_threshold": 0.001,
+    "flow_analysis": true
+  },
+  "results": [
+    {
+      "gamma": 1.0,
+      "violations_count": 9,
+      "total_violation_flow": 13,
+      "total_penalty_cost": 13.0,
+      "simulation_time": 2.9285226632874597,
+      "escape_edges_count": 11,
+      "status": "success"
+    },
+    {
+      "gamma": 10.0,
+      "violations_count": 7,
+      "total_violation_flow": 8,
+      "total_penalty_cost": 80.0,
+      "simulation_time": 2.4289291179844645,
+      "escape_edges_count": 9,
+      "status": "success"
+    },
+    {
+      "gamma": 50.0,
+      "violations_count": 3,
+      "total_violation_flow": 4,
+      "total_penalty_cost": 200.0,
+      "simulation_time": 2.0224208381543747,
+      "escape_edges_count": 5,
+      "status": "success"
+    },
+    {
+      "gamma": 100.0,
+      "violations_count": 3,
+      "total_violation_flow": 2,
+      "total_penalty_cost": 200.0,
+      "simulation_time": 2.818079876451324,
+      "escape_edges_count": 5,
+      "status": "success"
+    },
+    {
+      "gamma": 200.0,
+      "violations_count": 1,
+      "total_violation_flow": 1,
+      "total_penalty_cost": 200.0,
+      "simulation_time": 2.622431030117991,
+      "escape_edges_count": 3,
+      "status": "success"
+    },
+    {
+      "gamma": 400.0,
+      "violations_count": 1,
+      "total_violation_flow": 1,
+      "total_penalty_cost": 400.0,
+      "simulation_time": 1.7801644376548953,
+      "escape_edges_count": 3,
+      "status": "success"
+    },
+    {
+      "gamma": 800.0,
+      "violations_count": 0,
+      "total_violation_flow": 1,
+      "total_penalty_cost": 800.0,
+      "simulation_time": 2.363850829999745,
+      "escape_edges_count": 2,
+      "status": "success"
+    }
+  ]
+}

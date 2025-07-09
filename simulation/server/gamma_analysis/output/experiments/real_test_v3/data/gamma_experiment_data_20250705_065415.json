@@ -1,0 +1,51 @@
+{
+  "experiment_name": "real_test_v3",
+  "timestamp": "20250705_065415",
+  "config": {
+    "gamma_values": [
+      1.0,
+      10.0,
+      50.0,
+      100.0,
+      200.0,
+      400.0,
+      800.0
+    ],
+    "output_formats": [
+      "png",
+      "pdf"
+    ],
+    "chart_style": "professional",
+    "detailed_analysis": true,
+    "violation_threshold": 0.001,
+    "flow_analysis": true
+  },
+  "results": [
+    {
+      "gamma": 1.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 10,
+      "gamma_cost": 1.0,
+      "penalty_cost": 10.0,
+      "has_violation": true,
+      "violations_count": 1,
+      "simulation_time": 1.3922168075412655,
+      "status": "success"
+    },
+    {
+      "gamma": 10.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 3,
+      "gamma_cost": 10.0,
+      "penalty_cost": 30.0,
+      "has_violation": true,
+      "violations_count": 1,
+      "simulation_time": 1.2369415671216224,
+      "status": "success"
+    }
+  ]
+}

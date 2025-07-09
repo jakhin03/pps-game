@@ -1,0 +1,11 @@
+Run time: 2.653324604034424 SEC
+Solver time: 0.008805
+Total time: 0.038338
+Reading time: 0.0
+Presolving time: 0.004607
+Optimal value: 415.0
+Solution:
+x49_49_59 = 1.0
+x49_59_62 = 1.0
+x49_62_80 = 1.0
+x51_51_79 = 1.0

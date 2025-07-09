@@ -1,0 +1,4 @@
+gamma,violations_count,total_violation_flow,total_penalty_cost,simulation_time,status
+1.0,0,0,0,0,failed
+50.0,0,0,0,0,failed
+100.0,0,0,0,0,failed

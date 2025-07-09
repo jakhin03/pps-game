@@ -1,0 +1,9 @@
+Run time: 8.030635118484497 SEC
+Solver time: 0.002116
+Total time: 0.006882
+Reading time: 0.0
+Presolving time: 0.001583
+Optimal value: 14.0
+Solution:
+x28_28_45 = 1.0
+x28_45_79 = 1.0

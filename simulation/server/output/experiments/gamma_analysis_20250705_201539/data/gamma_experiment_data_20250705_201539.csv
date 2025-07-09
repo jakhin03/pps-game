@@ -1,0 +1,5 @@
+gamma,edge_source,edge_dest,edge_found,flow_value,gamma_cost,penalty_cost,has_violation,violations_count,simulation_time,status
+1.0,81,82,True,8,1.0,8.0,True,1,1.8512017258168343,success
+10.0,81,82,True,5,10.0,50.0,True,1,1.8131371908598413,success
+50.0,81,82,True,3,50.0,150.0,True,1,2.0460252892835697,success
+100.0,81,82,True,0,100.0,0.0,False,0,1.973682637113062,success

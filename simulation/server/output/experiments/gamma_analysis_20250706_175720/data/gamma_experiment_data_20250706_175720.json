@@ -1,0 +1,109 @@
+{
+  "experiment_name": "gamma_analysis_20250706_175720",
+  "timestamp": "20250706_175720",
+  "config": {
+    "gamma_values": [
+      1.0,
+      10.0,
+      50.0,
+      100.0,
+      200.0,
+      400.0,
+      800.0
+    ],
+    "output_formats": [
+      "png",
+      "pdf"
+    ],
+    "chart_style": "professional",
+    "detailed_analysis": true,
+    "violation_threshold": 0.001,
+    "flow_analysis": true
+  },
+  "results": [
+    {
+      "gamma": 1.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 1,
+      "penalty_cost": 0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 0.013483762741088867,
+      "status": "success",
+      "dimacs_backup": "output/experiments/gamma_analysis_20250706_175720/tsg_backups/TSG_gamma_1.0_20250706_175720.txt"
+    },
+    {
+      "gamma": 10.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 10,
+      "penalty_cost": 0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 0.009676933288574219,
+      "status": "success",
+      "dimacs_backup": "output/experiments/gamma_analysis_20250706_175720/tsg_backups/TSG_gamma_10.0_20250706_175720.txt"
+    },
+    {
+      "gamma": 50.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 50,
+      "penalty_cost": 0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 0.00977325439453125,
+      "status": "success",
+      "dimacs_backup": "output/experiments/gamma_analysis_20250706_175720/tsg_backups/TSG_gamma_50.0_20250706_175720.txt"
+    },
+    {
+      "gamma": 200.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 200,
+      "penalty_cost": 0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 0.010467052459716797,
+      "status": "success",
+      "dimacs_backup": "output/experiments/gamma_analysis_20250706_175720/tsg_backups/TSG_gamma_200.0_20250706_175720.txt"
+    },
+    {
+      "gamma": 400.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 400,
+      "penalty_cost": 0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 0.01134347915649414,
+      "status": "success",
+      "dimacs_backup": "output/experiments/gamma_analysis_20250706_175720/tsg_backups/TSG_gamma_400.0_20250706_175720.txt"
+    },
+    {
+      "gamma": 800.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 800,
+      "penalty_cost": 0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 0.00977182388305664,
+      "status": "success",
+      "dimacs_backup": "output/experiments/gamma_analysis_20250706_175720/tsg_backups/TSG_gamma_800.0_20250706_175720.txt"
+    }
+  ]
+}

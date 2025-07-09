@@ -1,0 +1,64 @@
+{
+  "experiment_name": "gamma_analysis_20250706_002336",
+  "timestamp": "20250706_002336",
+  "config": {
+    "gamma_values": [
+      1.0,
+      10.0,
+      50.0,
+      100.0,
+      200.0,
+      400.0,
+      800.0
+    ],
+    "output_formats": [
+      "png",
+      "pdf"
+    ],
+    "chart_style": "professional",
+    "detailed_analysis": true,
+    "violation_threshold": 0.001,
+    "flow_analysis": true
+  },
+  "results": [
+    {
+      "gamma": 1.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 8,
+      "gamma_cost": 1.0,
+      "penalty_cost": 8.0,
+      "has_violation": true,
+      "violations_count": 1,
+      "simulation_time": 2.000671248182619,
+      "status": "success"
+    },
+    {
+      "gamma": 50.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 3,
+      "gamma_cost": 50.0,
+      "penalty_cost": 150.0,
+      "has_violation": true,
+      "violations_count": 1,
+      "simulation_time": 2.1623179909576136,
+      "status": "success"
+    },
+    {
+      "gamma": 100.0,
+      "edge_source": 81,
+      "edge_dest": 82,
+      "edge_found": true,
+      "flow_value": 0,
+      "gamma_cost": 100.0,
+      "penalty_cost": 0.0,
+      "has_violation": false,
+      "violations_count": 0,
+      "simulation_time": 1.7010680557802218,
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "experiment_name": "gamma_analysis_20250706_002910",
+  "timestamp": "20250706_002910",
+  "config": {
+    "gamma_values": [
+      1.0,
+      10.0,
+      50.0,
+      100.0,
+      200.0,
+      400.0,
+      800.0
+    ],
+    "output_formats": [
+      "png",
+      "pdf"
+    ],
+    "chart_style": "professional",
+    "detailed_analysis": true,
+    "violation_threshold": 0.001,
+    "flow_analysis": true
+  },
+  "results": [
+    {
+      "gamma": 1.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    },
+    {
+      "gamma": 10.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    },
+    {
+      "gamma": 50.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    },
+    {
+      "gamma": 100.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    },
+    {
+      "gamma": 200.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    },
+    {
+      "gamma": 400.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    },
+    {
+      "gamma": 800.0,
+      "violations_count": 0,
+      "total_violation_flow": 0,
+      "total_penalty_cost": 0,
+      "simulation_time": 0,
+      "status": "failed"
+    }
+  ]
+}

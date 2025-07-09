@@ -1,0 +1,4 @@
+gamma,edge_source,edge_dest,edge_found,flow_value,gamma_cost,penalty_cost,has_violation,violations_count,simulation_time,status,dimacs_backup
+1.0,81,82,True,0,200,0,False,0,19.80850338935852,success,output/experiments/gamma_analysis_20250706_003437/tsg_backups/TSG_gamma_1.0_20250706_003437.txt
+10.0,81,82,True,0,200,0,False,0,7.348031282424927,success,output/experiments/gamma_analysis_20250706_003437/tsg_backups/TSG_gamma_10.0_20250706_003437.txt
+50.0,81,82,True,0,200,0,False,0,7.552919864654541,success,output/experiments/gamma_analysis_20250706_003437/tsg_backups/TSG_gamma_50.0_20250706_003437.txt
